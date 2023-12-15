@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Zayyan, a 13-year-old coding enthusiast with a passion for technology and a love for bringing ideas to life through code. 
+Hello! I'm Zayyan, a 13-year-old coding enthusiast with a passion for technology and a love for bringing ideas to life through code. (https://www.zayyan.cc/)
 
 
 # 💻 Tech Stack:
@@ -14,6 +14,3 @@ Hello! I'm Zayyan, a 13-year-old coding enthusiast with a passion for technology
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 💻 Website
-https://www.zayyan.cc/
