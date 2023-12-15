@@ -15,5 +15,5 @@ Hello! I'm Zayyan, a 13-year-old coding enthusiast with a passion for technology
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-#### 💻 Website
-![](https://zayyan.cc)
+### 💻 Website
+https://www.zayyan.cc/
